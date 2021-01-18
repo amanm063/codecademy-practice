@@ -28,7 +28,6 @@ class Patient:
     patient_profile["bmi"] = self.bmi
     patient_profile["no. of children"] = self.num_of_children
     patient_profile["smoker"] = self.smoker
-
     return patient_profile
 
 
